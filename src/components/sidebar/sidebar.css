@@ -1,0 +1,14 @@
+.sidebar-menu {
+    background-color: #1d2d32;
+    min-width: 150px;
+}
+
+ul {
+    max-width: 100px;
+    list-style-type: none;
+    padding: 0 10px;
+}
+
+li {
+    margin-bottom: 10px;
+}
